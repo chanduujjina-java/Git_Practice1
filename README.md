@@ -1,6 +1,6 @@
 Git commnds:
 1.To convert empty folder to git repo:
-git init
+... git init
 
 2.Move file from unstaged to staged
 single/specific file
